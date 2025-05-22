@@ -1,9 +1,10 @@
 # Shared Data and Code
-The links to the data and frozen code deposited to the official repositories by the Precision Neuromodulation (PN) Lab.
+The links to the data and frozen code deposited to the official repositories by the *Precision Neuromodulation (PN) Lab*.
 
 3) Dataset and code for the meta-modelling of transcranial brain stimulation in human population. Includes 100 preprocessed, quality-assured, realistic human head models with variable plausible condactivites and code for meta-analysis with SimNIBS.
 **Wischnewski M, Berger TA, Opitz A, Alekseichuk I (2024). Causal functional maps of brain rhythms in working memory. PNAS 121(14)**
 **Berger TA, Wischnewski M, Opitz A, Alekseichuk I (2025). Human head models and populational framework for simulating brain stimulations. Scientific Data 12**
+
 PNAS paper results: https://zenodo.org/records/10651639
 Models #1: https://zenodo.org/records/13259679
 Models #2: https://zenodo.org/records/13259747
